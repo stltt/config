@@ -1,7 +1,7 @@
 package config
 
 type Config struct {
-	tmpl string
-	data string
-	home string
+	Tmpl string
+	Data string
+	Home string
 }
